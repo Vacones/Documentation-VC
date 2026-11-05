@@ -9,5 +9,7 @@
 _Nota: En cada carpeta se encuentran los documentos por cada modelo_
 
 1. Select Data
-2. Data Cleaning Report
-3. Data Construct
+2. Clean Data
+3. Construct Data
+4. Format Data
+5. Dataset
