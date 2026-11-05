@@ -8,3 +8,6 @@ Documentación del proyecto organizada por las etapas de la metodología CRISP-D
 4. **[Modeling](Modeling/)**: documentación de cada modelo desarrollado, organizada en las carpetas `modelo_con_cajas` y `modelo_sin_cajas`. Cada una incluye la selección de la técnica de modelado, el diseño de pruebas, la construcción o descripción del modelo y su evaluación.
 
 En la raíz también se encuentran los documentos **Reto_Datos.pdf** y **Privacidad_Seguridad_Vacones.pdf**.
+
+## Plan de Valor Ganado
+Link: https://docs.google.com/spreadsheets/d/1ZqNfubbgyAbldh54Ei35J-rivGl8psI5vl03O0GcuvM/edit?gid=847488610#gid=847488610
