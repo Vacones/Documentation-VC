@@ -1,5 +1,7 @@
 # Data Understanding
 
+**Nota: Revisar la carpeta de PDFs**
+
 _Para la fase de Data Understanding, se sigue la metodología CRISP-DM en su forma original, sin ninguna adaptación._
 
 ## Orden de lectura de los documentos:
